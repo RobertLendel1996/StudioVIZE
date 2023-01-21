@@ -462,6 +462,7 @@ body {
           writing-mode: vertical-lr;
   border-right: 1px solid #E1E1E1;
   border-left: 1px solid #E1E1E1;
+  border-bottom: 1px solid #E1E1E1;
   width: 4.625rem;
   min-height: 55.375rem;
   display: -webkit-box;
